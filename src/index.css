@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-project {
+    background-color: #e5e5f7;
+    background-size: 48px 48px;
+    background-image: repeating-linear-gradient(0deg, #484848, #484848 2.4000000000000004px, #e5e5f7 2.4000000000000004px, #e5e5f7);
+}
